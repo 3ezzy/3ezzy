@@ -61,11 +61,7 @@ I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, specializin
 
 ---
 
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3ezzy&theme=dracula" alt="Activity Graph">
-</p>
+## <img src="https://raw.githubusercontent.com/3ezzy/3ezzy/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -82,19 +78,16 @@ A brief description of the project:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinusername">
+  <a href="https://www.linkedin.com/in/mehdi-khammali-550a48298/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://twitter.com/yourtwitterusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web">
+  <a href="https://www.instagram.com/meehdi.kml/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by Mehdi
+  Made with ❤️ by 3ezzy
 </p>
