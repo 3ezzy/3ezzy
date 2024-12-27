@@ -61,7 +61,8 @@ I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, specializin
 
 ---
 
-## <img src="https://raw.githubusercontent.com/3ezzy/3ezzy/output/snake.svg" alt="Snake animation" />
+
+
 
 ---
 
