@@ -1,8 +1,9 @@
 # Hi there, I'm Mehdi 👋
 
 <p align="center">
-  <img src="https://intranet.youcode.ma/storage/users/profile/1445-1728555252.jpg" alt="Banner" style="border-radius:10px; max-width:80%; height:auto;">
+  <strong>"Never a master. Always a student."</strong>
 </p>
+
 
 
 
