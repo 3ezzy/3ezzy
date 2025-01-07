@@ -69,18 +69,6 @@ I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, specializin
 
 
 
----
-
-## 📝 Featured Projects
-
-### Project Name - [Live Demo](https://yourprojectlink.com) | [Repo](https://github.com/3ezzy/yourprojectrepo)
-
-A brief description of the project:
-- ✅ Feature 1
-- ✅ Feature 2
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
