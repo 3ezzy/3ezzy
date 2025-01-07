@@ -1,10 +1,7 @@
 # Hi there, I'm Mehdi 👋
 
-<p align="center">
-  <strong>"Never a master."</strong>
-  <br>
-  <em>"Always a student."</em>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Never+a+master.+Always+a+student.)](https://git.io/typing-svg)
+
 
 
 
