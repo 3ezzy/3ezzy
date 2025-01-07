@@ -1,10 +1,9 @@
 # Hi there, I'm Mehdi 👋
 
 <p align="center">
-  <strong>"Never a master."</strong>
-  <br>
-  <em>"Always a student."</em>
+  <img src="https://via.placeholder.com/500x150.png?text=Never+a+master.+Always+a+student." alt="Quote">
 </p>
+
 
 
 
