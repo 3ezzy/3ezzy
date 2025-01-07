@@ -1,7 +1,7 @@
 # Hi there, I'm Mehdi 👋
 
 <p align="center">
-  <img src="https://intranet.youcode.ma/storage/users/profile/thumbnail/1445-1728555252.jpg" alt="Banner" width="600" style="border-radius:10px;">
+  <img src="https://intranet.youcode.ma/storage/users/profile//1445-1728555252.jpg" alt="Banner" style="border-radius:10px;">
 </p>
 
 
