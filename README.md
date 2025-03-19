@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Developer-UM6P--YouCode-blueviolet?style=flat-square" alt="Fullstack Developer">
   <img src="https://img.shields.io/github/followers/3ezzy?style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=3ezzy&style=flat-square" alt="Profile Views">
 </p>
 
 ---
