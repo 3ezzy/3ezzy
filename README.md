@@ -67,7 +67,7 @@ I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, dedicated t
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ezzy&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
----
+--- 
 
 ## 📫 Connect with Me
 
